@@ -15,6 +15,7 @@
 		FA4649E81F3D8F30005A84C0 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4649E71F3D8F30005A84C0 /* FirstViewController.swift */; };
 		FA4649EA1F3D9319005A84C0 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4649E91F3D9319005A84C0 /* SecondViewController.swift */; };
 		FA4649EC1F3D93B7005A84C0 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4649EB1F3D93B7005A84C0 /* ThirdViewController.swift */; };
+		FA4649EE1F3D9D7C005A84C0 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4649ED1F3D9D7C005A84C0 /* BlueViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		FA4649E71F3D8F30005A84C0 /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		FA4649E91F3D9319005A84C0 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		FA4649EB1F3D93B7005A84C0 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		FA4649ED1F3D9D7C005A84C0 /* BlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				FA4649E71F3D8F30005A84C0 /* FirstViewController.swift */,
 				FA4649E91F3D9319005A84C0 /* SecondViewController.swift */,
 				FA4649EB1F3D93B7005A84C0 /* ThirdViewController.swift */,
+				FA4649ED1F3D9D7C005A84C0 /* BlueViewController.swift */,
 			);
 			path = StoryboardSample;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				FA4649E81F3D8F30005A84C0 /* FirstViewController.swift in Sources */,
 				FA4649EC1F3D93B7005A84C0 /* ThirdViewController.swift in Sources */,
 				FA4649D81F3D84FF005A84C0 /* ViewController.swift in Sources */,
+				FA4649EE1F3D9D7C005A84C0 /* BlueViewController.swift in Sources */,
 				FA4649D61F3D84FF005A84C0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
